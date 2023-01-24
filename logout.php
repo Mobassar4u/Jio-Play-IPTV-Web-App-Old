@@ -2,7 +2,7 @@
 
 $ip="ip.php";
 $cred="logincred.php";
-$pl="playlist.m3u";
+$pl="JioPlayPlaylist.m3u";
 !unlink($ip);
 !unlink($cred);
 !unlink($pl);
