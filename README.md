@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Mobassar4u/Tata-Play-IPTV-India/main/Images/Jio%20TV%20Logo.jpg" ></p>  
+<p align="center"><img src="https://raw.githubusercontent.com/Mobassar4u/Tata-Play-IPTV-India/main/Project-Images/Jio-Play-Logo.jpg" ></p>  
   # Jio Play IPTV PHP Server
 
 #### Just Install The Php Script.. Its Easy With Zero Configuration
